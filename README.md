@@ -22,7 +22,7 @@ The system captures faces through a camera, recognizes registered individuals us
 - Pandas
 
 **Hardware:**
-- Arduino Board
+- Arduino Board or Esp32
 - USB Camera / Laptop Webcam
 - LCD 16x2 with I2C Module
 - Breadboard
