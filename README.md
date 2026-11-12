@@ -2,7 +2,7 @@
 
 A simple attendance management system that uses **Computer Vision and Face Recognition** to automatically identify people and record their attendance.
 
-The system captures faces through a camera, recognizes registered individuals using Python and OpenCV, and saves their names and attendance timestamps. An Arduino board can also be connected to an LCD screen to display the recognition results.
+The system captures faces through a camera, recognizes registered individuals using Python and OpenCV, and saves their names and attendance timestamps. An Arduino board or Esp32 can also be connected to an LCD screen to display the recognition results.
 
 ## ✨ Features
 
